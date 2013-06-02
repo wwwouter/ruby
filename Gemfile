@@ -5,6 +5,8 @@ gem 'json'
 gem 'rake'
 gem 'rack-test'
 
+ruby "2.0.0"
+
 
 group :test do
   gem 'rspec'
